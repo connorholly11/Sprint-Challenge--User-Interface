@@ -1,3 +1,14 @@
+1. It is the language of the internet. Everything you see on the internet is formatted in html.
+
+2. 1. display block order vertically by default and inline-block displays horizontally. 2. display: inline-block lets you set the width and height of the element while display:inline does not
+
+3. content, padding, border, margin
+
+4. by default it works on the y-axis, but if you have the direction being columns then it would be the x-axis.
+
+5. Git offers you to compare the code over certain time frames. If you mess up your code then you can revert back to the last piece of code you were working on. It’s much easier to revert the code back then to find out the problem you caused. 
+
+
 # Sprint Challenge: User Interface and Git - Multi-Page Website
 
 This challenge allows you to practice the concepts and techniques learned over the past week and apply them in a concrete project. This Sprint explored User Interface and Git. During this Sprint, you studied Semantic HTML, CSS Fundamentals, CSS Flexbox Module, and Git. In your challenge this week, you will demonstrate proficiency by creating a multi page website that has some missing HTML elements as well as CSS specificity problems that need to be solved.  You will also create an additional web page that will be linked to from a navigation you will build.
